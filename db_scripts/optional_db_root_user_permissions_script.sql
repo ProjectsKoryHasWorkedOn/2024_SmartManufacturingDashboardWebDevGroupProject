@@ -1,0 +1,1 @@
+SET PASSWORD FOR 'root'@'localhost' = PASSWORD('NrWK8i3vhdmAHbRezjrS7FKwmfi3b47xaKP3zosZ4WmVwKkYAVm8eZDBsZsAkJt2bPG3uXm5Lhx45dnayy84FVEr2WWENnGYDAVyFioLkuPrCVeyTMzRQcVay2EQJQyx');
